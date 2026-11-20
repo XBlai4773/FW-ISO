@@ -2,7 +2,7 @@
 
 Se va a plasmar el esquema de la red y sus elementos.
 
-![Esquema de red](img/Red_Simple.png)
+![Esquema de red](../../img/Red_Simple.png)
 
 ## 
 
